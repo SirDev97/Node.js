@@ -8,3 +8,5 @@ const greet = (name) => {
 
 greet("mario");
 greet("yoshi");
+
+// node <file name> ---> to execute js code in the terminal
