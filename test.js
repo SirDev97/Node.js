@@ -1,5 +1,10 @@
-const name = "yoshi";
+// const name = "yoshi";
 
-console.log(name);
+// console.log(name);
 
-// node <file name> -> to execute js code in the terminal
+const greet = (name) => {
+  console.log(`hello ${name}`);
+};
+
+greet("mario");
+greet("yoshi");
