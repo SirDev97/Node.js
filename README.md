@@ -1,13 +1,11 @@
-# Middleware Branch
+# MongoDB/Mongoose Branch
 
-- Code which runs on the server between getting a req and sending a res.
+## Mongoose
 
-## Middleware Examples:
+- mongoose is an ODM library - Object Document Mapping library
 
-1. Logger mw to log details of every request.
+- examples of use case:
 
-2. Auth check mw for protected routes.
+1. User.get(), User.findById()
 
-3. Mw to parse JSON data from requests.
-
-4. Return 404 pages.
+2. Schemas & Models
