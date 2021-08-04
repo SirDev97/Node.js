@@ -1,11 +1,9 @@
-# MongoDB/Mongoose Branch
+# Get, Post & Delete Requests Branch
 
-## Mongoose
+1. GET requests to get a resource
 
-- mongoose is an ODM library - Object Document Mapping library
+2. POST requests to create new data (e.g a new blog)
 
-- examples of use case:
+3. DELETE requests to delete data (e.g delete a blog)
 
-1. User.get(), User.findById()
-
-2. Schemas & Models
+4. PUT requests to update data (e.g update a blog)
