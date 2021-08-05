@@ -1,9 +1,9 @@
-# Get, Post & Delete Requests Branch
+# Express Router & MVC
 
-1. GET requests to get a resource
+1. MVC
 
-2. POST requests to create new data (e.g a new blog)
+- Stands for Model, View, Controller
 
-3. DELETE requests to delete data (e.g delete a blog)
+- MVC is a way of structuring our code & files
 
-4. PUT requests to update data (e.g update a blog)
+- Keeps code more modular, reusable & easier ro read
