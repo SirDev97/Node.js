@@ -32,6 +32,6 @@
 
   3. Run 'nodemon app' to start the server.
 
-  - NOTE: You might need to set up your own mongoDB sever since...
+  - NOTE: You might need to set up your own mongoDB sever...
 
 ### Main goal of this mini project is to display my understanding of Node.js, Express, MongoDB, Mongoose and how I structure my code.
